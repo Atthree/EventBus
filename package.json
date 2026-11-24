@@ -1,0 +1,14 @@
+{
+  "name": "com.atthree.event-bus",
+  "version": "0.1.0",
+  "displayName": "Event Bus",
+  "description": "Type-safe event bus for Unity 6: publish/subscribe between systems without references, automatic unsubscribe when objects are destroyed, ScriptableObject event channels and an event monitor window.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Atthree",
+    "url": "https://github.com/Atthree"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {}
+}
